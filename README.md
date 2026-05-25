@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [stemsplit-mcp](https://github.com/StemSplit/stemsplit-mcp) - MCP server for AI stem separation — remove vocals, isolate instrumentals, build karaoke tracks, or split audio into vocals, drums, bass, piano, guitar, and other stems from local files, YouTube URLs, or SoundCloud tracks. Works in Claude Desktop, Cursor, Cline, Windsurf, Zed, and any Model Context Protocol client. Powered by StemSplit and Demucs.
